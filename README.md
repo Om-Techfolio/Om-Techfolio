@@ -11,7 +11,7 @@
 
 ### 💻 Technical Skills
 
-**Programming: C, C++, Python**
+- **Programming: C, C++, Python**
 
 **Web Development: HTML, CSS (basic)**
 
