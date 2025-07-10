@@ -11,13 +11,13 @@
 
 ### 💻 Technical Skills
 
-- **Programming: C, C++, Python**
+- Programming: C, C++, Python
 
-- **Web Development: HTML, CSS (basic)**
+- Web Development: HTML, CSS (basic)
 
-- **Tools: GitHub, Visual Studio Code**
+- Tools: GitHub, Visual Studio Code
 
-- **Analytics: Basic AI Data Analytics knowledge**
+- Analytics: Basic AI Data Analytics knowledge
 
 ### 📜 Certifications
 
