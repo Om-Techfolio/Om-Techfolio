@@ -21,15 +21,10 @@
 
 ### 📜 Certifications
 
-AI Data Analytics – [Platform Name, if available]
+- **AI Data Analytics – [TATA]
 
-(Add more certificates once completed on Microsoft Learn / Google / Great Learning)
-
-
-
----
-
-🌐 Projects
+ 
+### 🌐 Projects
 
 Personal Portfolio Website
 
