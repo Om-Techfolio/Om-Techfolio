@@ -21,7 +21,7 @@
 
 ### 📜 Certifications
 
-- **AI Data Analytics – [TATA]
+- **AI Data Analytics – [TATA]**
 
  
 ### 🌐 Projects
