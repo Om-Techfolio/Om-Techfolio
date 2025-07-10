@@ -26,19 +26,13 @@
  
 ### 🌐 Projects
 
-Personal Portfolio Website
+- **Personal Portfolio Website**
 
-Built using HTML and CSS
+- **Built using HTML and CSS**
 
-Showcases skills, contact info, and personal introduction
+- **Showcases skills, contact info, and personal introduction**
 
-Hosted via GitHub Pages (if hosted, include link)
-
-
-
----
-
-🧠 Career Objective
+### 🧠 Career Objective
 
 Aspiring Web Developer seeking internship opportunities to gain real-world experience in frontend development and enhance my programming and problem-solving skills.
 
